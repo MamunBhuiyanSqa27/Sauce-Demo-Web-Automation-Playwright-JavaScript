@@ -1,4 +1,4 @@
-# Sauce-Demo-Web-Automation-P-aywright-JavaScript
+# Sauce-Demo-Web-Automation-Playwright-JavaScript
 Web_Automation_On_Sauce_Demo
 
 For run the code:
